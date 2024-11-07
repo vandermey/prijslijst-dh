@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/prijslijst-dh/static/css/main.10194c16.css",
-    "main.js": "/prijslijst-dh/static/js/main.893496bf.js",
+    "main.js": "/prijslijst-dh/static/js/main.15dc0d31.js",
     "static/js/453.241f782f.chunk.js": "/prijslijst-dh/static/js/453.241f782f.chunk.js",
     "index.html": "/prijslijst-dh/index.html",
     "main.10194c16.css.map": "/prijslijst-dh/static/css/main.10194c16.css.map",
-    "main.893496bf.js.map": "/prijslijst-dh/static/js/main.893496bf.js.map",
+    "main.15dc0d31.js.map": "/prijslijst-dh/static/js/main.15dc0d31.js.map",
     "453.241f782f.chunk.js.map": "/prijslijst-dh/static/js/453.241f782f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.10194c16.css",
-    "static/js/main.893496bf.js"
+    "static/js/main.15dc0d31.js"
   ]
 }
